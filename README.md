@@ -1,3 +1,5 @@
+<img width="1536" height="455" alt="deverabanner" src="https://github.com/user-attachments/assets/bade27fe-6a62-462b-a989-1fb03d7a2bd5" />
+
 # 🚀 Devéra — Criação de Sites e Soluções Web
 
 Transformamos ideias em experiências digitais modernas, rápidas e estratégicas.
