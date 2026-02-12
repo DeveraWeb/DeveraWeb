@@ -1,12 +1,12 @@
-# 🚀 Devêra — Criação de Sites e Soluções Web
+# 🚀 Devéra — Criação de Sites e Soluções Web
 
 Transformamos ideias em experiências digitais modernas, rápidas e estratégicas.
 
 ---
 
-## 🌎 Sobre a Devêra
+## 🌎 Sobre a Devéra
 
-A Devêra é uma marca focada em desenvolvimento de sites profissionais, landing pages estratégicas e soluções personalizadas para empresas que querem crescer no digital.
+A Devéra é uma marca focada em desenvolvimento de sites profissionais, landing pages estratégicas e soluções personalizadas para empresas que querem crescer no digital.
 
 🎯 Foco em performance  
 🎨 Design moderno e responsivo  
@@ -41,6 +41,6 @@ A Devêra é uma marca focada em desenvolvimento de sites profissionais, landing
 
 ## 📫 Contato
 
-🌐 Em breve: www.devera.com.br  
-📩 Email: contato@devera.com.br  
-💼 LinkedIn: Seu link aqui
+🌐 www.deveraweb.com.br  
+📩 Email: matheus@deveraweb.com.br  
+💼 LinkedIn: 
