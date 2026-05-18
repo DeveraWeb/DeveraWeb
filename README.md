@@ -40,4 +40,4 @@ A Devéra é uma marca focada em desenvolvimento de sites profissionais, landing
 
 🌐 www.deveraweb.com.br  
 📩 Email: matheus@deveraweb.com.br  
-💼 LinkedIn: linkedin.com/company/deveraweb/
+💼 LinkedIn: www.linkedin.com/company/deveraweb/
