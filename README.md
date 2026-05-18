@@ -35,14 +35,9 @@ A Devéra é uma marca focada em desenvolvimento de sites profissionais, landing
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contato
 
 🌐 www.deveraweb.com.br  
 📩 Email: matheus@deveraweb.com.br  
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/company/deveraweb/
