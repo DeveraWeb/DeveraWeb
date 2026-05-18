@@ -29,9 +29,9 @@ A Devéra é uma marca focada em desenvolvimento de sites profissionais, landing
 
 ## 📂 Projetos em Destaque
 
-🔹 [Site Institucional - Data Age]([link-do-repo](https://dataage.com.br/))  
-🔹 [Site Institucional - Aram Ambiental]([link-do-repo](https://aramambiental.com.br/))  
-🔹 [Cardápio Digital - Biscoito Rei Davi]([link-do-repo](https://biscoitoreidavi.com.br/))  
+🔹 [Site Institucional - Data Age](https://dataage.com.br/)  
+🔹 [Site Institucional - Aram Ambiental](https://aramambiental.com.br/)  
+🔹 [Cardápio Digital - Biscoito Rei Davi](https://biscoitoreidavi.com.br/)  
 
 ---
 
